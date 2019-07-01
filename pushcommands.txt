@@ -1,8 +1,5 @@
-git add .  - Files: 
-                  README.md
-
-git commit -m "# routes added"
-
+git add .
+git commit -m "Fallback on array arrangement"
 git push origin master
 
 //Object Template
@@ -13,8 +10,8 @@ git push origin master
       "checkpoints": "",
       "price": ,
       "waypoints": [
-        [,],
-        [,],
-        [,]
+        [ ,],
+        [ ,],
+        [ ,]
       ]
     },
