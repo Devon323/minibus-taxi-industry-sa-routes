@@ -6,10 +6,13 @@
       "from": "Retreat",
       "to": "Wynberg",
       "checkpoints": "heathfield diep river plumstead wittebome",
+      "price": 10,
       "waypoints": [
-        [18.462711, -34.059528],
-        [18.462565, -34.059358],
-        [18.462173, -34.059365]
+        [-34.05962, 18.46273],
+        [-34.05952, 18.46272],
+        [-34.05948, 18.46271],
+        [-34.05941, 18.46266],
+        [-34.05938, 18.4626]
       ]
     },
     {
@@ -17,6 +20,7 @@
       "from": "Wyberg",
       "to": "Cape town",
       "checkpoints": "kennilworth claremont rondebosch rosebank mowbray observatory salt river woodstock",
+      "price": 16,
       "waypoints": [
         [18.470286, -34.004767],
         [18.469228, -34.004788],
@@ -28,6 +32,7 @@
       "from": "Retreat",
       "to": "Fish Hoek",
       "checkpoints": "muizenberg st james shoprite fishhoek",
+      "price": 15,
       "waypoints": [
         [18.462711, -34.059528],
         [18.46272, -34.059869],

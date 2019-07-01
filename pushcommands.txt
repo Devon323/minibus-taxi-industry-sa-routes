@@ -1,0 +1,20 @@
+git add .  - Files: 
+                  README.md
+
+git commit -m "# routes added"
+
+git push origin master
+
+//Object Template
+    {
+      "id": ,
+      "from": "",
+      "to": "",
+      "checkpoints": "",
+      "price": ,
+      "waypoints": [
+        [,],
+        [,],
+        [,]
+      ]
+    },
